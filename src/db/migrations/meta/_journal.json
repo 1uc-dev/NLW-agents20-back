@@ -8,6 +8,13 @@
       "when": 1752177432298,
       "tag": "0000_minor_beast",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752509714996,
+      "tag": "0001_shiny_champions",
+      "breakpoints": true
     }
   ]
 }
